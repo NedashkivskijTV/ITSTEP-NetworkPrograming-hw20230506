@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\bin\Debug\net6.0-windows\Server_UdpClient.exe
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\bin\Debug\net6.0-windows\Server_UdpClient.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\bin\Debug\net6.0-windows\Server_UdpClient.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\bin\Debug\net6.0-windows\Server_UdpClient.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\bin\Debug\net6.0-windows\Server_UdpClient.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.Form1.resources
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\refint\Server_UdpClient.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\Server_UdpClient.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Server_UdpClient\Server_UdpClient\obj\Debug\net6.0-windows\ref\Server_UdpClient.dll
