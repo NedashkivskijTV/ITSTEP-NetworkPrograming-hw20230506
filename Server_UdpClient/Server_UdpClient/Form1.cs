@@ -92,24 +92,9 @@ namespace Server_UdpClient
         // Відправка повідомлень до усіх підключених клієнтів
         private void SendMessagesAllUsers(string text)
         {
-            //byte[] data = Encoding.Default.GetBytes(text);
             for (int i = 0; i < clientsList.Count; i++)
             {
-                //UdpClient client = null;
-                //try
-                //{
-                    //client = new UdpClient();
-                    //client.Send(data, data.Length, clientsList[i]);
-                    SendMessagesForUser(text, clientsList[i]);
-                //}
-                //catch (SocketException ex)
-                //{
-                //    MessageBox.Show(ex.Message);
-                //}
-                //finally
-                //{
-                //    client.Close();
-                //}
+                SendMessagesForUser(text, clientsList[i]);
             }
         }
 

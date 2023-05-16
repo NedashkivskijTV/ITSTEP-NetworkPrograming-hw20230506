@@ -13,4 +13,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Client_UdpClient
-build_property.ProjectDir = D:\ITSTEP\NetworkPrograming\_HW\hw06-20230506UdpClientChat\v04\Client_UdpClient\
+build_property.ProjectDir = D:\ITSTEP\NetworkPrograming\HW-Lab_GIT_clone\hw0620230506\ITSTEP-NetworkPrograming-hw20230506\Client_UdpClient\

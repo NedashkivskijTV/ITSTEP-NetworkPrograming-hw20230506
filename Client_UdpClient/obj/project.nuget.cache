@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sj3b5fvL5/GVoncNUSaH8FkcbmPj09j0mDn5wN03672OsxzjuOE03mKIgvhfybFKHjHhoHjyz3WqBadE5JW+wg==",
+  "dgSpecHash": "pagmnjenLBmJg+kL1PDToxwVh9sT+nn95o0PG/lHJweehPeNFd1IqOPJ9Cpb2JquN/WYDLHtXuTSgebeEfAdHw==",
   "success": true,
-  "projectFilePath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\hw06-20230506UdpClientChat\\v04\\Client_UdpClient\\Client_UdpClient.csproj",
+  "projectFilePath": "D:\\ITSTEP\\NetworkPrograming\\HW-Lab_GIT_clone\\hw0620230506\\ITSTEP-NetworkPrograming-hw20230506\\Client_UdpClient\\Client_UdpClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
